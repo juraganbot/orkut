@@ -1,0 +1,3 @@
+name = "orkut"
+main = "src/index.js"
+compatibility_date = "2027-01-01"
